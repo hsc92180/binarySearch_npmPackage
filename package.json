@@ -1,0 +1,16 @@
+{
+  "name": "@hsc92180/binarysearch_npmpackage",
+  "version": "1.0.2",
+  "description": "This package helps to find element in sorted array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Binary",
+    "Search",
+    "DSA"
+  ],
+  "author": "Himanshu",
+  "license": "ISC"
+}
